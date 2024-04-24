@@ -4,8 +4,12 @@ This project is a Java Spring Boot application that provides a GraphQL API for m
 
 # Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+- Clone this repository
+```
+  git clone https://github.com/Prasad2531/GraphQL-with-SpringBoot.git
+```
+- Build and run the application
+- The application will be running on port 8080
 # Accessing the GraphQL Endpoint
 
 - The default endpoint for GraphQL API will be http://localhost:8080/graphql
